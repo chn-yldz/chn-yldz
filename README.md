@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cihan Yıldız
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 
 
 
