@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Cihan Yıldız
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django and Flask
 
 
 
